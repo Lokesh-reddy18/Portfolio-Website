@@ -28,7 +28,7 @@ const codingProfiles = [
 		icon: SiCodechef,
 		url: "https://www.codechef.com/users/loki_1805",
 		color: "text-brown-700",
-		rating: "Max Rating: 1665",
+		rating: "Max Rating: 1755",
 	},
 	{
 		name: "AtCoder",
