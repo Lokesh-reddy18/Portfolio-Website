@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="public/assets/Lokesh.png" width="80" alt="Portfolio Logo">
-</p>
-
-<h1 align="center">Lokesh Reddy | sPortfolio</h1>
+<h1 align="center">Lokesh Reddy | Portfolio</h1>
 
 <p align="center">
   <b>Personal Portfolio built with TypeScript, Next.js, and Tailwind CSS</b><br>
